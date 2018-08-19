@@ -1,1 +1,1 @@
-# STA-380-Part-2-Exercises-1 Anuraag Mohile
+# STA-380 Exercise 2 Anuraag Mohile
